@@ -7,3 +7,8 @@ This visualization displays just how dramatically the 3 point line has affected 
 One possible aspect I could have considered when creating this visualization is the systems that these NBA players were in. For example, Chris Paul joined the Houston Rockets in 2017 and his 3 point attempt percentage increased from 38% to nearly 47% because of Mike D'Antoni's coaching philosophy.
 
 Here is the link to Tableau Public where the project has been published: https://public.tableau.com/profile/ammad4996#!/vizhome/NBARevolutionof3pointline/NBARevolutionofthe3pointshot?publish=yes
+
+
+![Screen Shot 2020-12-03 at 2 12 53 PM](https://user-images.githubusercontent.com/62044354/101094701-a9b94500-3571-11eb-92ba-edadcb960f51.png)
+
+![Screen Shot 2020-12-03 at 2 12 30 PM](https://user-images.githubusercontent.com/62044354/101094716-ad4ccc00-3571-11eb-8e08-5dd224f02c8e.png)
